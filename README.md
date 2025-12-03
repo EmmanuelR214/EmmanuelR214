@@ -126,8 +126,8 @@
 # 🍔 Proyecto 1: **La Barbada – E-Commerce de Comida**
 <div align="center">
 
-[![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/EmmanuelR214/LaBarbada)
-[![🌐 Versión Web](https://img.shields.io/badge/Visitar_Sitio-Web-2ea44f?style=for-the-badge)](https://la-barbada2.vercel.app/)
+[![🔗 Repositorio en GitHub](https://github.com/EmmanuelR214/ApiBarbadav1)
+[![🌐 Versión Web](https://la-barbada2.vercel.app/)
 
 </div>
 
@@ -156,12 +156,13 @@ Este proyecto surge como solución real para un negocio local, permitiendo autom
 ### 🛠️ Tecnologías Utilizadas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Auth.js-000000?style=flat&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
 </p>
 
 ---
@@ -169,8 +170,8 @@ Este proyecto surge como solución real para un negocio local, permitiendo autom
 # ☕ Proyecto 2: **Garza Bite – Maquetado de E-Commerce Escolar**
 <div align="center">
 
-[![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/EmmanuelR214/GarzaBite)
-[![🌐 Versión Web](https://img.shields.io/badge/Visitar_Sitio-Web-blue?style=for-the-badge)](https://garza-bite.vercel.app/)
+[![🔗 Repositorio en GitHub](https://github.com/EmmanuelR214/Garza-bite)
+[![🌐 Versión Web](https://garza-bite.vercel.app/)
 
 </div>
 
