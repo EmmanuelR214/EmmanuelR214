@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Irving Emmanuel</h1>
+<h1 align="center">👋 Hola, soy Irving Emmanuel</h1>
 <h3 align="center">Full Stack Developer | Software Engineer</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 - 🚀 Apasionado por crear aplicaciones escalables, rápidas y modernas.
 - 📚 Mejorando continuamente en GCP, arquitectura limpia y patrones avanzados.
 - 🤝 Dispuesto a colaborar en proyectos open-source y startups.
-- 📫 Contacto: **tu-correo-aqui@gmail.com** *(si quieres, lo cambio de una vez)*
+- 📫 Contacto: **emmanuelreyes214@gmail.com** 
 
 ---
 
