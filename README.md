@@ -119,19 +119,92 @@
 
 ---
 
-# 📊 GitHub Analytics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+## 💣 Proyectos  
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelR214&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelR214&theme=algolia" />
-    </td>
+---
 
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelR214&layout=compact&langs_count=20&theme=algolia" />
-    </td>
-  </tr>
-</table>
+# 🍔 Proyecto 1: **La Barbada – E-Commerce de Comida**
+<div align="center">
+
+[![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/EmmanuelR214/LaBarbada)
+[![🌐 Versión Web](https://img.shields.io/badge/Visitar_Sitio-Web-2ea44f?style=for-the-badge)](https://la-barbada2.vercel.app/)
+
+</div>
+
+### 📝 Descripción
+
+**La Barbada** es un sistema completo de comida rápida estilo *food-truck*, con un **e-commerce moderno** que permite a los usuarios:
+
+- Ver el menú con productos dinámicos.  
+- Crear órdenes y enviarlas directamente al sistema.  
+- Autenticarse con **Google, Facebook, Apple o teléfono con OTP** (Auth.js).  
+- Pagar o confirmar pedidos desde el carro de compra.  
+- Navegación rápida gracias a **Next.js 13 App Router**.  
+
+Este proyecto surge como solución real para un negocio local, permitiendo automatizar pedidos y mejorar la atención.
+
+---
+
+### 🖼️ Captura de Pantalla
+
+<p align="center">
+  <img src="./labarbada.com.png" alt="La Barbada - Captura" width="80%" style="border-radius: 10px;" />
+</p>
+
+---
+
+### 🛠️ Tecnologías Utilizadas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth.js-000000?style=flat&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+# ☕ Proyecto 2: **Garza Bite – Maquetado de E-Commerce Escolar**
+<div align="center">
+
+[![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/EmmanuelR214/GarzaBite)
+[![🌐 Versión Web](https://img.shields.io/badge/Visitar_Sitio-Web-blue?style=for-the-badge)](https://garza-bite.vercel.app/)
+
+</div>
+
+### 📝 Descripción
+
+**Garza Bite** es un diseño UI/UX y maquetación avanzada creada para una cafetería escolar.  
+Aunque es un prototipo funcional, incluye características típicas de un e-commerce:
+
+- Catálogo de productos con imágenes.  
+- Vista de detalle del producto.  
+- Carrito interactivo.  
+- UI diseñada para ser limpia, juvenil y moderna.  
+- Maquetado responsivo pensado para dispositivos móviles.  
+
+Fue creado como ejercicio profesional de diseño + frontend, aplicando buenas prácticas en componentes y manejo del estado.
+
+---
+
+### 🖼️ Captura de Pantalla
+
+<p align="center">
+  <img src="./garza.png" alt="Garza Bite - Captura" width="80%" style="border-radius: 10px;" />
+</p>
+
+---
+
+### 🛠️ Tecnologías Utilizadas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+</p>
+
                                                
