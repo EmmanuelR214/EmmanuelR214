@@ -1,4 +1,4 @@
-<h1 align="center"><b>🚀 ¡Hola, soy Irving Emmanuel! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ <h1 align="center"><b>🚀 ¡Hola, soy Irving Emmanuel! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" width=300px alt="Coding GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
@@ -8,10 +8,6 @@
   <span style="color: #000; font-weight: bold;">Next.js</span>, 
   <span style="color: #339933; font-weight: bold;">Node.js</span> y bases de datos SQL/NoSQL.<br>
   🔧 Apasionado por el código limpio, arquitectura modular y buenas prácticas.<br>
-  📫 <span style="font-weight: bold;">Contáctame:</span> 
-  <a href="emmanuelreyes214@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -126,9 +122,7 @@
 # 🍔 Proyecto 1: **La Barbada – E-Commerce de Comida**
 <div align="center">
 
-[![🔗 Repositorio en GitHub](https://github.com/EmmanuelR214/ApiBarbadav1)
-[![🌐 Versión Web](https://la-barbada2.vercel.app/)
-
+[![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/EmmanuelR214/ApiBarbadav1)
 </div>
 
 ### 📝 Descripción
@@ -139,7 +133,6 @@
 - Crear órdenes y enviarlas directamente al sistema.  
 - Autenticarse con **Google, Facebook, Apple o teléfono con OTP** (Auth.js).  
 - Pagar o confirmar pedidos desde el carro de compra.  
-- Navegación rápida gracias a **Next.js 13 App Router**.  
 
 Este proyecto surge como solución real para un negocio local, permitiendo automatizar pedidos y mejorar la atención.
 
@@ -170,10 +163,7 @@ Este proyecto surge como solución real para un negocio local, permitiendo autom
 # ☕ Proyecto 2: **Garza Bite – Maquetado de E-Commerce Escolar**
 <div align="center">
 
-[![🔗 Repositorio en GitHub](https://github.com/EmmanuelR214/Garza-bite)
-[![🌐 Versión Web](https://garza-bite.vercel.app/)
-
-</div>
+[![🔗 Repositorio en GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/EmmanuelR214/GarzaBite)</div>
 
 ### 📝 Descripción
 
