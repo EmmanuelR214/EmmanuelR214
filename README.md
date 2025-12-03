@@ -127,12 +127,12 @@
 
 ### 📝 Descripción
 
-**La Barbada** es un sistema completo de comida rápida estilo *food-truck*, con un **e-commerce moderno** que permite a los usuarios:
+**La Barbada** es un sistema completo de comida rápida estilo **e-commerce moderno** que permite a los usuarios:
 
 - Ver el menú con productos dinámicos.  
 - Crear órdenes y enviarlas directamente al sistema.  
 - Autenticarse con **Google, Facebook, Apple o teléfono con OTP** (Auth.js).  
-- Pagar o confirmar pedidos desde el carro de compra.  
+- Pagar con tarjeta atravez de **OpenPay** o confirmar pedidos desde el carro de compra.  
 
 Este proyecto surge como solución real para un negocio local, permitiendo automatizar pedidos y mejorar la atención.
 
@@ -171,12 +171,11 @@ Este proyecto surge como solución real para un negocio local, permitiendo autom
 Aunque es un prototipo funcional, incluye características típicas de un e-commerce:
 
 - Catálogo de productos con imágenes.  
-- Vista de detalle del producto.  
 - Carrito interactivo.  
 - UI diseñada para ser limpia, juvenil y moderna.  
 - Maquetado responsivo pensado para dispositivos móviles.  
 
-Fue creado como ejercicio profesional de diseño + frontend, aplicando buenas prácticas en componentes y manejo del estado.
+Fue creado como ayuda al equipo de desarrollo de diseño + frontend, aplicando buenas prácticas en componentes y manejo del estado.
 
 ---
 
